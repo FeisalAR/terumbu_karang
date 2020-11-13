@@ -1,4 +1,7 @@
 <?php
+include 'connection.php';
+session_start();
+
     function registrasi(){
         
     }
@@ -96,6 +99,46 @@
     }
 
     function editTerumbu(){
+        
+    }
+
+    function addPerizinan(){
+        
+    }
+
+    function viewPerizinan(){
+        
+    }
+
+    function editPerizinan(){
+        
+    }
+
+    function addInformasi(){
+        
+    }
+
+    function viewInformasi(){
+        
+    }
+
+    function editInformasi(){
+        
+    }
+
+    function viewLaporan(){
+        
+    }
+
+    function filterLaporan(){
+        
+    }
+
+    function viewUser(){
+        
+    }
+
+    function editUser(){
         
     }
 
